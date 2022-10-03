@@ -2,10 +2,8 @@
 ## Contacts
 - Email: krivdinm@ya.ru
 - Github: loonlylokly
-- Phone: +7 (904) *** ** **
 - Discord: lonlylokly#7385
 - Telegram: https://t.me/lonlylokly
-- Location: Russia
 
 ## Work experience
 IBS, 11.05.2022-09.07.2022
