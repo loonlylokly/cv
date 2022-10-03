@@ -34,6 +34,3 @@ ABAP intern-developer
  ![123](https://www.codewars.com/users/loonlylokly/badges/large)
 ## Languages
 Английский - A2/B1
-
-## About me
-It's me, Mario!
