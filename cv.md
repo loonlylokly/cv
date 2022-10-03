@@ -11,6 +11,7 @@ Nizhny Novgorod, Russia
 ABAP intern-developer
 ## Education
 2018-2022 Higher School of Economics, Bachelor's Degree in Software Engineering
+
 2022-2024 Nizhny Novgorod State Technical University, Master's Degree in Information Security
 ## Skills
  - JavaScript, Python, HTML/CSS, Python, C++14
