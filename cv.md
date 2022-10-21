@@ -18,9 +18,11 @@ ABAP intern-developer
  - Git, Bash, PostgreSQL
 
 ## Code Expamle
+Пятнашки на ванильном JS(в процессе) - [тут](https://github.com/loonlylokly/puzzle-game)
+
 Децентрализованное приложение(dapp) (использовалась библиотека trufflesuite) - [тут](https://github.com/loonlylokly/cryptogame)
 
-Пример сайта с адаптивной версткой без фреймворков(в процессе) - [тут](https://loonlylokly.github.io/online-zoo/online-zoo/pages/main/index.html)
+Пример сайта с адаптивной версткой без фреймворков - [тут](https://loonlylokly.github.io/online-zoo/online-zoo/pages/main/index.html)
 
 Лабораторные работы по интелектуальному анализу данных [тут](https://github.com/loonlylokly/DataMining)
 
